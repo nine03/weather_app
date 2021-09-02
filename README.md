@@ -1,6 +1,6 @@
 # weather_app
 
-### 开发环境(development environment 개발환경)
+### 开发环境(Development Environment 개발환경)
 - Android Studio
 - Flutter 
 - Dart
